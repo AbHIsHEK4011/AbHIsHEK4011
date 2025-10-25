@@ -1,6 +1,6 @@
 # Hi, I'm Abhishek Misra 👋
 
-**Software Developer | AI & Machine Learning Enthusiast | Pythonista**
+**Software Developer | AI & Machine Learning Enthusiast | Python**
 
 ---
 
